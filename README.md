@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raniadeiri&label=Profile%20views&color=0e75b6&style=flat" alt="raniadeiri" /> </p>
 
-- 🔭 I’m currently working on [My Portifolio]([https://github.com/raniadeiri/Portifolio]))
+- 🔭 I’m currently working on [My Portifolio]([https://github.com/raniadeiri/Portifolio])
 
 - 🌱 I’m currently learning **React, Clean Code**
 
 - 📫 How to reach me **raniadeiri87@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1up__J5EsZaq3hv6m-yG9GOTNN655FPT9/view?usp=sharing](https://drive.google.com/file/d/1up__J5EsZaq3hv6m-yG9GOTNN655FPT9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
